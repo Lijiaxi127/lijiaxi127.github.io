@@ -8,8 +8,8 @@
 # Site settings
 title: Jiaxi' Blog
 brief-intro: 总有美丽的风景让人流连
-baseurl: "https://lijiaxi127.github.io/" # the subpath of your site, e.g. /blog
-url: "https://lijiaxi127.github.io/" # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 enforce_ssl: 
 
 permalink: /:year/:month/:day/:title/
